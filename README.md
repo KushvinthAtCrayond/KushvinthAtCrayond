@@ -1,7 +1,5 @@
 # About
 
 
-![Main Gif](./assets/main.gif)
-
-![](./assets/logo.png)
+![Main Gif](./Kushvinth.gif)
 
